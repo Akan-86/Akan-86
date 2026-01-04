@@ -1,4 +1,5 @@
-# Hi there 👋 I'm Akan
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a6a4cc53-1c59-451e-ab3c-578b372b3737" />
+
 
 ## 👨‍💻 About Me
 
